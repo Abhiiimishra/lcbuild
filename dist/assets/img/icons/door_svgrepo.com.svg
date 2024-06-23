@@ -1,7 +1,0 @@
-<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="door_svgrepo.com">
-<path id="secondary" d="M7 3.5H17C17.2652 3.5 17.5196 3.60536 17.7071 3.79289C17.8946 3.98043 18 4.23478 18 4.5V21.5H6V4.5C6 4.23478 6.10536 3.98043 6.29289 3.79289C6.48043 3.60536 6.73478 3.5 7 3.5Z" fill="#292D32"/>
-<path id="primary-upstroke" d="M10.4531 12.5H10.5531" stroke="#ECF2F7" stroke-width="3.25" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="primary" d="M5 21.5H19M18 21.5H6V4.5C6 4.23478 6.10536 3.98043 6.29289 3.79289C6.48043 3.60536 6.73478 3.5 7 3.5H17C17.2652 3.5 17.5196 3.60536 17.7071 3.79289C17.8946 3.98043 18 4.23478 18 4.5V21.5Z" stroke="#292D32" stroke-width="1.74" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-</svg>
