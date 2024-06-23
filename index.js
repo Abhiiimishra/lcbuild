@@ -4,11 +4,11 @@ const path = require("path");
 const app = express();
 
 // Serve static files from the 'dist' directory
-app.use(express.static(path.join(__dirname, "dist")));
+app.use(express.static(path.join(__dirname, "my-tv-app")));
 
 // Handle all other requests by serving 'index.html'
 app.get("*", (req, res) => {
-  res.sendFile(path.join(__dirname, "dist", "index.html"));
+  res.sendFile(path.join(__dirname, "my-tv-app", "index.html"));
 });
 
 // Start the server, listen on the specified port or default to 8080
